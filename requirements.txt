@@ -5,3 +5,7 @@ numpy
 # Visualization
 matplotlib
 seaborn
+
+# Modeling
+torch
+transformers
