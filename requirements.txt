@@ -5,7 +5,11 @@ numpy
 # Visualization
 matplotlib
 seaborn
+py3Dmol
 
 # Modeling
 torch
 transformers
+
+# Structure
+requests
